@@ -1,0 +1,23 @@
+.navbar-light{
+    color: black!important;
+    background-color: yellow!important;
+}
+
+.bg-yellow{
+    background-color: yellow;
+}
+
+.bg-gray{
+    background-color: gray;
+}
+
+.img-small{
+    height: 500px;
+}
+.circlemap{
+    -moz-border-radius:250px;
+    -webkit-border-radius:250px;
+    -o-border-radius:250px;
+    -ms-border-radius:250px;
+    border-radius:250px;
+}
